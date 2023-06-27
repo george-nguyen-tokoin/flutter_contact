@@ -17,7 +17,7 @@ dependencies:
       ref: main
   flutter:
     sdk: flutter
-  intl: ^0.18.1
+  intl: 0.18.1
   logging: ^1.0.2
   logging_config: ^0.6.7+7
   quiver: ^3.0.1+1
